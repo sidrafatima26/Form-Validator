@@ -28,19 +28,19 @@ Listens for the form submission event and performs the necessary validation usin
 
 # Clone the repository:
 
-git clone []
+git clone [ Form-Validator@github.com](sidrafatima26/Form-Validator.git)
 Open the index.html file in your preferred web browser.
 
 # Features
-- Username Validation: Ensures the username meets specified criteria.
-- Email Validation: Validates the email format.
-- Password Validation: Checks for password strength.
-- Password Confirmation: Ensures the password and confirm password fields match.
+- **Username Validation:** Ensures the username meets specified criteria.
+- **Email Validation:** Validates the email format.
+- **Password Validation:** Checks for password strength.
+- **Password Confirmation:** Ensures the password and confirm password fields match.
   
 # Project Structure
-- FormValidator.html: Contains the HTML structure for the form.
-- FormValidator.css: Stylesheet for the form.
-- FormValidator.js: JavaScript file for form validation.
+- **FormValidator.html:** Contains the HTML structure for the form.
+- **FormValidator.css:** Stylesheet for the form.
+- **FormValidator.js:** JavaScript file for form validation.
   
 # Usage
 Open index.html in a web browser.
